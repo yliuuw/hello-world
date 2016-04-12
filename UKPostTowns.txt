@@ -1,0 +1,1149 @@
+Aberdeen,AB
+Aberlour,AB
+Aboyne, AB
+Alford,AB, Aberdeenshire
+Ballater,AB
+Ballindalloch,AB
+Banchory,AB
+Banff,AB
+Buckie,AB
+Ellon,AB
+Fraserburgh,AB
+Huntly,AB
+Insch,AB
+Inverurie,AB
+Keith,AB
+Laurencekirk,AB
+Macduff,AB
+Milltimber,AB
+Peterculter,AB
+Peterhead,AB
+Stonehaven,AB
+Strathdon,AB
+Turriff,AB
+Westhill,AB 
+Harpenden,AL
+Hatfield,AL
+St. Albans,AL
+Welwyn,AL
+Welwyn Garden City,AL
+ Alcester,B
+Birmingham,B
+Bromsgrove,B
+Cradley Heath,B
+Halesowen,B
+Henley-in-Arden,B
+Oldbury,B
+Redditch,B
+Rowley Regis,B
+Smethwick,B
+Solihull,B
+Studley,B
+Sutton Coldfield,B
+Tamworth,B
+West Bromwich,B 
+Bath,BA,Somerset
+Bradford-on-Avon,BA,Wiltshire
+Bruton,BA
+Castle Cary,BA
+Frome,BA
+Glastonbury,BA
+Radstock,BA
+Shepton Mallet,BA
+Street,BA
+Templecombe,BA
+Trowbridge,BA
+Warminster,BA
+Wells,BA
+Westbury,BA
+Wincanton,BA
+Yeovil,BA 
+Accrington,BB
+Barnoldswick,BB
+Blackburn,BB
+Burnley,BB
+Clitheroe,BB
+Colne,BB
+Darwen,BB
+Nelson,BB
+Rossendale,BB 
+Bingley,BD
+Bradford,BD,West Yorkshire
+Cleckheaton,BD
+Keighley,BD
+Settle,BD
+Shipley,BD
+Skipton,BD 
+BFPO,BF 
+Bournemouth,BH
+Broadstone,BH
+Christchurch,BH
+Ferndown,BH
+New Milton,BH
+Poole,BH
+Ringwood,BH
+Swanage,BH
+Verwood,BH
+Wareham,BH
+Wimborne,BH
+Bolton,BL
+Bury,BL
+Arundel,BN
+Brighton,BN
+Eastbourne,BN
+Hailsham,BN
+Hassocks,BN
+Henfield,BN
+Hove,BN
+Lancing,BN
+Lewes,BN
+Littlehampton,BN
+Newhaven,BN
+Peacehaven,BN
+Pevensey,BN
+Polegate,BN
+Seaford,BN
+Shoreham-by-Sea,BN
+Steyning,BN
+Worthing,BN 
+Beckenham,BR
+Bromley,BR
+Chislehurst,BR
+Keston,BR
+Orpington,BR
+Swanley,BR
+West Wickham,BR 
+Axbridge,BS
+Banwell,BS
+Bristol,BS
+Cheddar,BS
+Clevedon,BS
+Wedmore,BS
+Weston-super-Mare,BS
+Winscombe,BS 
+Antrim,BT
+Armagh,BT
+Augher,BT
+Aughnacloy,BT
+Ballycastle,BT
+Ballyclare,BT
+Ballymena,BT
+Ballymoney,BT
+Ballynahinch,BT
+Banbridge,BT
+Bangor,BT,County Down
+Belfast,BT
+Bushmills,BT
+Caledon,BT
+Carrickfergus,BT
+Castlederg,BT
+Castlewellan,BT
+Clogher,BT
+Coleraine,BT
+Cookstown,BT
+Craigavon,BT
+Crumlin,BT
+Donaghadee,BT
+Downpatrick,BT
+Dromore,BT
+Dungannon,BT
+Enniskillen,BT
+Fivemiletown,BT
+Hillsborough,BT
+Holywood,BT
+Larne,BT
+Limavady,BT
+Lisburn,BT
+Londonderry,BT
+Maghera,BT
+Magherafelt,BT
+Newcastle,BT,County Down
+Newry,BT
+Newtownabbey,BT
+Newtownards,BT
+Omagh,BT
+Portrush,BT
+Portstewart,BT
+Strabane,BT 
+Alston,CA
+Appleby-in-Westmorland,CA
+Beckermet,CA
+Brampton,CA
+Carlisle,CA
+Cleator,CA
+Cleator Moor,CA
+Cockermouth,CA
+Egremont,CA
+Frizington,CA
+Holmrook,CA
+Keswick,CA
+Kirkby Stephen,CA
+Maryport,CA
+Moor Row,CA
+Penrith,CA
+Ravenglass,CA
+Seascale,CA
+St. Bees,CA
+Whitehaven,CA
+Wigton,CA
+Workington,CA
+Cambridge,CB
+Ely,CB
+Haverhill,CB
+Newmarket,CB
+Saffron Walden,CB 
+Aberdare,CF
+Bargoed,CF
+Barry,CF
+Bridgend,CF
+Caerphilly,CF
+Cardiff,CF
+Cowbridge,CF
+Dinas Powys,CF
+Ferndale,CF
+Hengoed,CF
+Llantwit Major,CF
+Maesteg,CF
+Merthyr Tydfil,CF
+Mountain Ash,CF
+Penarth,CF
+Pentre,CF
+Pontyclun,CF
+Pontypridd,CF
+Porth,CF
+Porthcawl,CF
+Tonypandy,CF
+Treharris,CF
+Treorchy,CF
+Bagillt,CH
+Birkenhead,CH
+Buckley,CH
+Chester,CH
+Deeside,CH
+Ellesmere Port,CF,Cheshire
+Flint,CH
+Holywell,CH
+Mold,CH
+Neston,CH
+Prenton,CH
+Wallasey,CH
+Wirral,CH
+Billericay,CM
+Bishop's Stortford,CM
+Braintree,CM
+Brentwood,CM
+Burnham-on-Crouch,CM,Essex
+Chelmsford,CM
+Dunmow,CM
+Epping,CM
+Harlow,CM
+Ingatestone,CM
+Maldon,CM
+Ongar,CM
+Sawbridgeworth,CM
+Southminster,CM
+Stansted,CM
+Witham,CM 
+Bures,CO
+Clacton-on-Sea,CO
+Colchester,CO
+Frinton-on-Sea,CO
+Halstead,CO
+Harwich,CO
+Manningtree,CO
+Sudbury,CO
+Walton on the Naze,CO,Essex
+Caterham,CR
+Coulsdon,CR
+Croydon,CR
+Kenley,CR
+Mitcham,CR
+Purley,CR
+South Croydon,CR
+Thornton Heath,CR
+Warlingham,CR
+Whyteleafe,CR
+Birchington,CT
+Broadstairs,CT
+Canterbury,CT
+Deal,CT
+Dover,CT
+Folkestone,CT
+Herne Bay,CT
+Hythe,CT
+Margate,CT
+Ramsgate,CT
+Sandwich,CT
+Westgate-on-Sea,CT
+Whitstable,CT
+Atherstone,CV
+Bedworth,CV
+Coventry,CV
+Kenilworth,CV
+Leamington Spa,CV
+Nuneaton,CV
+Rugby,CV
+Shipston-on-Stour,CV
+Southam,CV
+Stratford-upon-Avon,CV
+Warwick,CV 
+Congleton,CW
+Crewe,CW
+Middlewich,CW
+Nantwich,CW
+Northwich,CW
+Sandbach,CW
+Tarporley,CW
+Winsford,CW
+Belvedere,DA
+Bexley,DA
+Bexleyheath,DA
+Dartford,DA
+Erith,DA
+Gravesend,DA
+Greenhithe,DA
+Longfield,DA
+Sidcup,DA
+Swanscombe,DA
+Welling,DA 
+Arbroath,dd
+Brechin,DD
+Carnoustie,DD
+Dundee,DD
+Forfar,DD
+Kirriemuir,DD
+Montrose,DD
+Newport-on-Tay,DD,Fife
+Tayport,DD 
+Alfreton,DE
+Ashbourne,DE
+Bakewell,DE
+Belper,DE
+Burton-on-Trent,DE
+Derby,DE
+Heanor,DE
+Ilkeston,DE
+Matlock,DE
+Ripley,DE
+Swadlincote,DE 
+Annan,DG
+Canonbie,DG
+Castle Douglas,DG
+Dalbeattie,DG
+Dumfries,DG
+Gretna,DG
+Kirkcudbright,DG
+Langholm,DG
+Lockerbie,DG
+Moffat,DG
+Newton Stewart,DG
+Sanquhar,DG
+Stranraer,DG
+Thornhill,DG 
+Chester le Street,DH
+Consett,DH
+Durham,DH
+Houghton le Spring,DH
+Stanley,DH 
+Barnard Castle,DL
+Bedale,DL
+Bishop Auckland,DL
+Catterick Garrison,DL
+Crook,DL
+Darlington,DL
+Ferryhill,DL
+Hawes,DL
+Leyburn,DL
+Newton Aycliffe,DL
+Northallerton,DL
+Richmond,DL,North Yorkshire
+Shildon,DL
+Spennymoor,DL
+Barnetby,DN
+Barrow-upon-Humber,DN
+Barton-upon-Humber,DN
+Brigg,DN
+Cleethorpes,DN
+Doncaster,DN
+Gainsborough,DN
+Goole,DN
+Grimsby,DN
+Immingham,DN
+Retford,DN
+Scunthorpe,DN
+Ulceby,DN
+Beaminster,DT
+Blandford Forum,DT
+Bridport,DT
+Dorchester,DT
+Lyme Regis,DT
+Portland,DT
+Sherborne,DT
+Sturminster Newton,DT
+Weymouth,DT 
+Bewdley,DY
+Brierley Hill,DY
+Dudley,DY
+Kidderminster,DY
+Kingswinford,DY
+Stourbridge,DY
+Stourport-on-Severn,DY
+Tipton,DY 
+London,E 
+London,EC 
+Balerno,EH
+Bathgate,EH,
+West Lothian,EH
+Bo'ness,EH
+Bonnyrigg,EH
+Broxburn,EH
+Currie,3EH
+Dalkeith,EH
+Dunbar,EH
+East Linton,EH
+Edinburgh,EH
+Gorebridge,EH
+Gullane,EH
+Haddington,EH
+Heriot,EH
+Humbie,EH
+Innerleithen,EH
+Juniper Green,EH
+Kirkliston,EH
+Kirknewton,EH
+Lasswade,EH
+Linlithgow,EH
+Livingston,EH
+Loanhead,EH
+Longniddry,EH
+Musselburgh,EH
+Newbridge,EH
+North Berwick,EH
+Pathhead,EH
+Peebles,EH
+Penicuik,EH
+Prestonpans,EH
+Rosewell,EH
+Roslin,EH
+South Queensferry,EH
+Tranent,EH
+Walkerburn,EH
+West Calder,EH
+West Linton,EH 
+Barnet,EN
+Broxbourne,EN
+Enfield,EN
+Hoddesdon,EN
+Potters Bar,EN
+Waltham Abbey,EN
+Waltham Cross,EN 
+Axminster,EX
+Barnstaple,EX
+Beaworthy,EX
+Bideford,EX
+Braunton,EX
+Bude,EX
+Budleigh Salterton,EX
+Chulmleigh,EX
+Colyton,EX
+Crediton,EX
+Cullompton,
+Dawlish,EX
+Exeter,EX
+Exmouth,EX
+Holsworthy,EX
+Honiton,EX
+Ilfracombe,EX
+Lynmouth,EX
+Lynton,EX
+North Tawton,EX
+Okehampton,EX
+Ottery St. Mary,EX
+Seaton,EX
+Sidmouth,EX
+South Molton,EX
+Tiverton,EX
+Torrington,EX
+Umberleigh,EX
+Winkleigh,EX
+Woolacombe,EX 
+Alloa,FK
+Alva,FK
+Bonnybridge,FK
+Callander,FK
+Clackmannan,FK
+Crianlarich,FK
+Denny,FK
+Dollar,FK
+Doune,FK
+Dunblane,FK
+Falkirk,FK
+Grangemouth,FK
+Killin,FK
+Larbert,FK
+Lochearnhead,FK
+Menstrie,FK
+Stirling,FK
+Tillicoultry,FK
+Blackpool,FY
+Fleetwood,FY
+Lytham St. Annes,FY
+Poulton-le-Fylde,FY
+Thornton-Cleveleys,FY 
+Alexandria,G
+Arrochar,G
+Clydebank,G
+Dumbarton,G
+Glasgow,G
+Helensburgh,G 
+Badminton,GL
+Berkeley,GL
+Blakeney,GL
+Cheltenham,GL
+Chipping Campden,GL
+Cinderford,GL
+Cirencester,GL
+Coleford,GL
+Drybrook,GL
+Dursley,GL
+Dymock,GL
+Fairford,
+Gloucester,GL
+Lechlade,GL
+Longhope,GL
+Lydbrook,GL
+Lydney,GL
+Mitcheldean,GL
+Moreton-in-Marsh,GL
+Newent,GL
+Newnham,GL
+Ruardean,GL
+Stonehouse,GL
+Stroud,GL
+Tetbury,GL
+Tewkesbury,GL
+Westbury-on-Severn,GL
+Wotton-under-Edge,GL 
+Aldershot,GU
+Alton,GU
+Bagshot,GU
+Bordon,GU
+Camberley,GU
+Cranleigh,GU
+Farnborough,GU
+Farnham,GU
+Fleet,GU
+Godalming,GU
+Guildford,GU
+Haslemere,GU
+Hindhead,GU
+Lightwater,GU
+Liphook,GU
+Liss,GU
+Midhurst,GU
+Petersfield,GU
+Petworth,GU
+Sandhurst,GU
+Virginia Water,GU
+Windlesham,GU
+Woking,GU
+Yateley,GU 
+Guernsey,GY
+ 
+
+
+HA
+ 
+Edgware, Harrow, Northwood, Pinner, Ruislip, Stanmore, Wembley
+ 
+
+
+HD
+ 
+Brighouse, Holmfirth, Huddersfield
+ 
+
+
+HG
+ 
+Harrogate, Knaresborough, Ripon
+ 
+
+
+HP
+ 
+Amersham, Aylesbury, Beaconsfield, Berkhamsted, Chalfont St. Giles, Chesham, Great Missenden, Hemel Hempstead, High Wycombe, Princes Risborough, Tring
+ 
+
+
+HR
+ 
+Bromyard, Hereford, Kington, Ledbury, Leominster, Ross-on-Wye
+ 
+
+
+HS
+ 
+Isle of Barra, Isle of Benbecula, Isle of Harris, Isle of Lewis, Isle of North Uist, Isle of Scalpay, Isle of South Uist, Stornoway
+ 
+
+
+HU
+ 
+Beverley, Brough, Cottingham, Hessle, Hornsea, Hull, North Ferriby, Withernsea
+ 
+
+
+HX
+ 
+Elland, Halifax, Hebden Bridge, Sowerby Bridge
+ 
+
+
+IG
+ 
+Barking, Buckhurst Hill, Chigwell, Ilford, Loughton, Woodford Green
+ 
+
+
+IM
+ 
+Isle of Man
+ 
+
+
+IP
+ 
+Aldeburgh, Brandon, Bury St. Edmunds, Diss, Eye, Felixstowe, Halesworth, Harleston, Ipswich, Leiston, Saxmundham, Southwold, Stowmarket, Thetford, Woodbridge
+ 
+
+
+IV
+ 
+Achnasheen, Alness, Ardgay, Avoch, Beauly, Cromarty, Dingwall, Dornoch, Elgin, Fochabers, Forres, Fortrose, Gairloch, Garve, Invergordon, Inverness, Isle of Skye, Kyle, Lairg, Lossiemouth, Muir of Ord, Munlochy, Nairn, Plockton, Portree, Rogart, Strathcarron, Strathpeffer, Strome Ferry, Tain, Ullapool
+ 
+
+
+JE
+ 
+Jersey
+ 
+
+
+KA
+ 
+Ardrossan, Ayr, Beith, Cumnock, Dalry, Darvel, Galston, Girvan, Irvine, Isle of Arran, Isle of Cumbrae, Kilbirnie, Kilmarnock, Kilwinning, Largs, Mauchline, Maybole, Newmilns, Prestwick, Saltcoats, Stevenston, Troon, West Kilbride
+ 
+
+
+KT
+ 
+Addlestone, Ashtead, Chertsey, Chessington, Cobham, East Molesey, Epsom, Esher, Kingston upon Thames, Leatherhead, New Malden, Surbiton, Tadworth, Thames Ditton, Walton-on-Thames (Surrey),[Note 16] West Byfleet, West Molesey, Weybridge, Worcester Park (Surrey)[Note 17]
+ 
+
+
+KW
+ 
+Berriedale, Brora, Dunbeath, Forsinard, Golspie, Halkirk, Helmsdale, Kinbrace, Kirkwall, Latheron, Lybster, Orkney, Stromness, Thurso, Wick
+ 
+
+
+KY
+ 
+Anstruther, Burntisland, Cowdenbeath, Cupar, Dunfermline, Glenrothes, Inverkeithing, Kelty, Kinross, Kirkcaldy, Leven, Lochgelly, St. Andrews
+ 
+
+
+L
+ 
+Bootle, Liverpool, Ormskirk, Prescot
+ 
+
+
+LA
+ 
+Ambleside, Askam-in-Furness, Barrow-in-Furness, Broughton-in-Furness, Carnforth, Coniston, Dalton-in-Furness, Grange-over-Sands, Kendal, Kirkby-in-Furness, Lancaster, Millom, Milnthorpe, Morecambe, Sedbergh, Ulverston, Windermere
+ 
+
+
+LD
+ 
+Brecon, Builth Wells, Knighton, Llandrindod Wells, Llangammarch Wells, Llanwrtyd Wells, Presteigne, Rhayader
+ 
+
+
+LE
+ 
+Ashby-de-la-Zouch, Coalville, Hinckley, Ibstock, Leicester, Loughborough, Lutterworth, Market Harborough, Markfield, Melton Mowbray, Oakham, Wigston
+ 
+
+
+LL
+ 
+Aberdyfi, Abergele, Amlwch, Arthog, Bala, Bangor (Gwynedd),[Note 18] Barmouth, Beaumaris, Betws-y-Coed, Blaenau Ffestiniog, Bodorgan, Brynteg, Caernarfon, Cemaes Bay, Colwyn Bay, Conwy, Corwen, Criccieth, Denbigh, Dolgellau, Dolwyddelan, Dulas, Dyffryn Ardudwy, Fairbourne, Gaerwen, Garndolbenmaen, Harlech, Holyhead, Llanbedr, Llanbedrgoch, Llandudno (Conwy),[Note 19] Llandudno Junction (Conwy),[Note 20] Llanerchymedd, Llanfairfechan, Llanfairpwllgwyngyll, Llangefni, Llangollen, Llanrwst, Llwyngwril, Marianglas, Menai Bridge, Moelfre, Penmaenmawr, Penrhyndeudraeth, Pentraeth, Penysarn, Porthmadog, Prestatyn, Pwllheli, Rhosgoch, Rhosneigr, Rhyl, Ruthin, St. Asaph, Talsarnau, Talybont (Gwynedd),[Note 21] Trefriw, Ty Croes, Tyn-y-Gongl, Tywyn, Wrexham, Y Felinheli
+ 
+
+
+LN
+ 
+Alford (Lincolnshire),[Note 22] Horncastle, Lincoln, Louth, Mablethorpe, Market Rasen, Woodhall Spa
+ 
+
+
+LS
+ 
+Ilkley, Leeds, Otley, Pudsey, Tadcaster, Wetherby
+ 
+
+
+LU
+ 
+Dunstable, Leighton Buzzard, Luton
+ 
+
+
+M
+ 
+Manchester, Sale, Salford
+ 
+
+
+ME
+ 
+Aylesford, Chatham, Faversham, Gillingham (Kent),[Note 23] Maidstone, Queenborough, Rochester, Sheerness, Sittingbourne, Snodland, West Malling
+ 
+
+
+MK
+ 
+Bedford, Buckingham, Milton Keynes, Newport Pagnell (Buckinghamshire),[Note 24] Olney
+ 
+
+
+ML
+ 
+Airdrie, Bellshill, Biggar, Carluke, Coatbridge, Hamilton, Lanark, Larkhall, Motherwell, Shotts, Strathaven, Wishaw
+ 
+
+
+N
+ 
+London[Note 25]
+ 
+
+
+NE
+ 
+Alnwick, Ashington, Bamburgh, Bedlington, Belford, Blaydon-on-Tyne, Blyth, Boldon Colliery, Chathill, Choppington, Corbridge, Cramlington, East Boldon, Gateshead, Haltwhistle, Hebburn, Hexham, Jarrow, Morpeth, Newbiggin-by-the-Sea, Newcastle upon Tyne (Tyne and Wear),[Note 26] North Shields, Prudhoe, Riding Mill, Rowlands Gill, Ryton, Seahouses, South Shields, Stocksfield, Wallsend, Washington, Whitley Bay, Wooler, Wylam
+ 
+
+
+NG
+ 
+Grantham, Mansfield, Newark, Nottingham, Sleaford, Southwell, Sutton-in-Ashfield
+ 
+
+
+NN
+ 
+Brackley, Corby, Daventry, Kettering, Northampton, Rushden, Towcester, Wellingborough
+ 
+
+
+NP
+ 
+Abergavenny, Abertillery, Blackwood, Caldicot, Chepstow, Crickhowell, Cwmbran, Ebbw Vale, Monmouth, New Tredegar, Newport (Monmouthshire),[Note 27] Pontypool, Tredegar, Usk
+ 
+
+
+NR
+ 
+Attleborough, Beccles, Bungay, Cromer, Dereham, Fakenham, Great Yarmouth, Holt, Lowestoft, Melton Constable, North Walsham, Norwich, Sheringham, Walsingham, Wells-next-the-Sea, Wymondham
+ 
+
+
+NW
+ 
+London[Note 28]
+ 
+
+
+OL
+ 
+Ashton-under-Lyne, Bacup, Heywood, Littleborough, Oldham, Rochdale, Todmorden
+ 
+
+
+OX
+ 
+Abingdon, Bampton, Banbury, Bicester, Burford, Carterton, Chinnor, Chipping Norton, Didcot, Kidlington, Oxford, Thame, Wallingford, Wantage, Watlington, Wheatley, Witney, Woodstock
+ 
+ 
+Appin,PA
+Bishopton,PA
+Bridge of Orchy,PA,Argyll
+Bridge of Weir,PA,Renfrewshire
+Cairndow,PA
+Campbeltown,PA
+Colintraive,PA
+Dalmally,PA
+Dunoon,PA
+Erskine,PA
+Gourock,PA
+Greenock,PA
+Inveraray,PA
+Isle of Bute,PA
+Isle of Coll,PA
+Isle of Colonsay,PA
+Isle of Gigha,PA
+Isle of Iona,PA
+Isle of Islay,PA
+Isle of Jura,PA
+Isle of Mull,PA
+Isle of Tiree,PA
+Johnstone,PA
+Kilmacolm,PA
+Lochgilphead,PA
+Lochwinnoch,PA
+Oban,PA
+Paisley,PA
+Port Glasgow,PA
+Renfrew,PA
+Skelmorlie,PA
+Tarbert,PA
+Taynuilt,PA
+Tighnabruaich,PA
+Wemyss Bay,PA
+Boston,PE
+Bourne,PE
+Chatteris,PE
+Downham Market,PE
+Hunstanton,PE
+Huntingdon,PE
+King's Lynn,PE
+March,PE
+Peterborough,PE
+Sandringham,PE
+Skegness,PE
+Spalding,PE
+Spilsby,PE
+St. Ives,PE,Huntingdonshire
+St. Neots,PE
+Stamford,PE
+Swaffham,PE
+Wisbech,PE 
+Aberfeldy,PH
+Acharacle,PH
+Arisaig,PH
+Auchterarder,PH
+Aviemore,PH
+Ballachulish,PH
+Blairgowrie,PH
+Boat of Garten,PH
+Carrbridge,PH
+Corrour,PH
+Crieff,PH
+Dalwhinnie,PH
+Dunkeld,PH
+Fort Augustus,PH
+Fort William,PH
+Glenfinnan,PH
+Grantown-on-Spey,PH
+Invergarry,PH
+Isle of Canna,PH
+Isle of Eigg,PH
+Isle of Rum,PH
+Kingussie,PH
+Kinlochleven,PH
+Lochailort,PH
+Mallaig,PH
+Nethy Bridge,PH
+Newtonmore,PH
+Perth,PH
+Pitlochry,PH
+Roy Bridge,PH
+Spean Bridge,PH
+Bodmin,PL
+Boscastle,PL
+Callington,PL
+Calstock,PL
+Camelford,PL
+Delabole,PL
+Fowey,PL
+Gunnislake,PL
+Ivybridge,PL
+Launceston,PL
+Lifton,PL
+Liskeard,PL
+Looe,PL
+Lostwithiel,PL
+Padstow,PL
+Par,PL
+Plymouth,PL
+Port Isaac,PL
+Saltash,PL
+St. Austell,PL
+Tavistock,PL
+Tintagel,PL
+Torpoint,PL
+Wadebridge,PL
+Yelverton,PL
+Bembridge,PO
+Bognor Regis,PO
+Chichester,PO
+Cowes,PO
+East Cowes,PO
+Emsworth,PO
+Fareham,PO
+Freshwater,PO
+Gosport,PO
+Havant,PO
+Hayling Island,PO
+Lee-on-the-Solent,PO
+Newport,PO,Isle of Wight
+Portsmouth,PO
+Rowland's Castle,PO
+Ryde,PO
+Sandown,PO
+Seaview,PO
+Shanklin,PO
+Southsea,PO
+Totland Bay,PO
+Ventnor,PO
+Waterlooville,PO
+Yarmouth,PO
+
+ 
+
+
+PR
+ 
+Chorley, Leyland, Preston, Southport
+ 
+
+
+RG
+ 
+Basingstoke, Bracknell, Crowthorne, Henley-on-Thames, Hook, Hungerford, Newbury, Reading, Tadley, Thatcham, Whitchurch (Hampshire),[Note 35] Wokingham
+ 
+
+
+RH
+ 
+Betchworth, Billingshurst, Burgess Hill, Crawley, Dorking, East Grinstead, Forest Row, Gatwick, Godstone, Haywards Heath, Horley, Horsham, Lingfield, Oxted, Pulborough, Redhill, Reigate
+ 
+
+
+RM
+ 
+Dagenham, Grays, Hornchurch, Purfleet, Rainham, Romford, South Ockendon, Tilbury, Upminster
+ 
+
+
+S
+ 
+Barnsley, Chesterfield, Dronfield, Hope Valley, Mexborough, Rotherham, Sheffield, Worksop
+ 
+
+
+SA
+ 
+Aberaeron, Ammanford, Boncath, Burry Port, Cardigan, Carmarthen, Clarbeston Road, Clynderwen, Crymych, Ferryside, Fishguard, Glogue, Goodwick, Haverfordwest, Kidwelly, Kilgetty, Lampeter, Llanarth, Llandeilo, Llandovery, Llandysul, Llanelli, Llanfyrnach, Llangadog, Llanwrda, Llanybydder, Milford Haven, Narberth, Neath, New Quay, Newcastle Emlyn (Carmarthenshire),[Note 36] Newport (Pembrokeshire),[Note 37] Pembroke, Pembroke Dock, Pencader, Port Talbot, Saundersfoot, Swansea, Tenby, Whitland
+ 
+
+
+SE
+ 
+London[Note 38]
+ 
+
+
+SG
+ 
+Arlesey, Baldock, Biggleswade, Buntingford, Henlow, Hertford, Hitchin, Knebworth, Letchworth Garden City, Much Hadham, Royston, Sandy, Shefford, Stevenage, Ware
+ 
+
+
+SK
+ 
+Alderley Edge, Buxton, Cheadle, Dukinfield, Glossop, High Peak, Hyde, Macclesfield, Stalybridge, Stockport, Wilmslow
+ 
+
+
+SL
+ 
+Ascot, Bourne End, Gerrards Cross, Iver, Maidenhead, Marlow, Slough, Windsor
+ 
+
+
+SM
+ 
+Banstead, Carshalton, Morden, Sutton, Wallington
+ 
+
+
+SN
+ 
+Calne, Chippenham, Corsham, Devizes, Faringdon, Malmesbury, Marlborough, Melksham, Pewsey, Swindon
+ 
+
+
+SO
+ 
+Alresford, Brockenhurst, Eastleigh, Lymington, Lyndhurst, Romsey, Southampton, Stockbridge, Winchester
+ 
+
+
+SP
+ 
+Andover, Fordingbridge, Gillingham (Dorset),[Note 39] Salisbury, Shaftesbury, Tidworth
+ 
+
+
+SR
+ 
+Peterlee, Seaham, Sunderland
+ 
+
+
+SS
+ 
+Basildon, Benfleet, Canvey Island, Hockley, Leigh-on-Sea, Rayleigh, Rochford, Southend-on-Sea, Stanford-le-Hope, Westcliff-on-Sea, Wickford
+ 
+
+
+ST
+ 
+Leek, Newcastle (Newcastle-under-Lyme, Staffordshire),[Note 40] Stafford, Stoke-on-Trent, Stone, Uttoxeter
+ 
+
+
+SW
+ 
+London[Note 41]
+ 
+
+
+SY
+ 
+Aberystwyth, Bishops Castle, Borth, Bow Street, Bucknell, Caersws, Church Stretton, Craven Arms, Ellesmere (Shropshire),[Note 42] Llanbrynmair, Llandinam, Llanfechain, Llanfyllin, Llanidloes, Llanon, Llanrhystud, Llansantffraid-ym-Mechain, Llanymynech, Ludlow, Lydbury North, Machynlleth, Malpas, Meifod, Montgomery, Newtown, Oswestry, Shrewsbury, Talybont (Ceredigion),[Note 43] Tregaron, Welshpool, Whitchurch (Shropshire),[Note 44] Ystrad Meurig
+ 
+
+
+TA
+ 
+Bridgwater, Burnham-on-Sea (Somerset),[Note 45] Chard, Crewkerne, Dulverton, Highbridge, Hinton St. George, Ilminster, Langport, Martock, Merriott, Minehead, Montacute, Somerton, South Petherton, Stoke-sub-Hamdon, Taunton, Watchet, Wellington
+ 
+
+
+TD
+ 
+Berwick-upon-Tweed, Cockburnspath, Coldstream, Cornhill-on-Tweed, Duns, Earlston, Eyemouth, Galashiels, Gordon, Hawick, Jedburgh, Kelso, Lauder, Melrose, Mindrum, Newcastleton (Roxburghshire),[Note 46] Selkirk
+ 
+
+
+TF
+ 
+Broseley, Market Drayton, Much Wenlock, Newport (Shropshire),[Note 47] Shifnal, Telford
+ 
+
+
+TN
+ 
+Ashford (Kent),[Note 48] Battle, Bexhill-on-Sea, Cranbrook, Crowborough, Edenbridge, Etchingham, Hartfield, Hastings, Heathfield, Mayfield, New Romney, Robertsbridge, Romney Marsh, Rye, Sevenoaks, St. Leonards-on-Sea, Tenterden, Tonbridge, Tunbridge Wells, Uckfield, Wadhurst, Westerham, Winchelsea
+ 
+
+
+TQ
+ 
+Brixham, Buckfastleigh, Dartmouth, Kingsbridge, Newton Abbot, Paignton, Salcombe, South Brent, Teignmouth, Torquay, Totnes
+ 
+
+
+TR
+ 
+Camborne, Falmouth, Hayle, Helston, Isles of Scilly, Marazion, Newquay, Penryn, Penzance, Perranporth, Redruth, St. Agnes, St. Columb, St. Ives (Cornwall),[Note 49] Truro
+ 
+
+
+TS
+ 
+Billingham, Guisborough, Hartlepool, Middlesbrough, Redcar, Saltburn-by-the-Sea, Stockton-on-Tees, Trimdon Station, Wingate, Yarm
+ 
+
+
+TW
+ 
+Ashford (Middlesex),[Note 50] Brentford, Egham, Feltham, Hampton, Hounslow, Isleworth, Richmond (London),[Note 51] Shepperton, Staines-upon-Thames,[Note 52] Sunbury-on-Thames, Teddington, Twickenham
+ 
+
+
+UB
+ 
+Greenford, Hayes, Northolt, Southall, Uxbridge, West Drayton
+ 
+
+
+W
+ 
+London[Note 53]
+ 
+
+
+WA
+ 
+Altrincham, Frodsham, Knutsford, Lymm, Newton-le-Willows, Runcorn, St. Helens, Warrington, Widnes
+ 
+
+
+WC
+ 
+London[Note 54]
+ 
+
+
+WD
+ 
+Abbots Langley, Borehamwood, Bushey, Kings Langley, Radlett, Rickmansworth, Watford
+ 
+
+
+WF
+ 
+Batley, Castleford, Dewsbury, Heckmondwike, Knottingley, Liversedge, Mirfield, Normanton, Ossett, Pontefract, Wakefield
+ 
+
+
+WN
+ 
+Leigh, Skelmersdale, Wigan
+ 
+
+
+WR
+ 
+Broadway, Droitwich, Evesham, Malvern, Pershore, Tenbury Wells, Worcester (Worcestershire)[Note 55]
+ 
+
+
+WS
+ 
+Burntwood, Cannock, Lichfield, Rugeley, Walsall, Wednesbury
+ 
+
+
+WV
+ 
+Bilston, Bridgnorth, Willenhall, Wolverhampton
+ 
+
+
+YO
+ 
+Bridlington, Driffield, Filey, Malton, Pickering, Scarborough, Selby, Thirsk, Whitby, York
+ 
+
+
+ZE
+ 
+Shetland
